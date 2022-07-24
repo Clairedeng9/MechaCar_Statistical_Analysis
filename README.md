@@ -23,3 +23,28 @@ Firstly, we know the regression can be expressed as below from the screenshot:
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
     We know that F calculated as , the critical values for Fdistribution alpha equals to 0.05, F = 2.427 < 22.07 , also P-value is5.35e-11 less than 0.05, statistically signically. Also, this linear model has an r-squared value of 0.7149, which means that approximately 71% of all mpg predictions will be determined by this model. Relatively speaking, the multiple regression model does predict mpg of MechaCar prototypes effectively.
+
+## Summary Statistics on Suspension Coils
+Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+
+### Manufacturing Lot Summary
+
+![image](https://user-images.githubusercontent.com/103073631/180670293-12847d5f-6e71-42fd-b58f-09faed051c04.png)
+
+### Summary by Manufacturing Lot Number
+![image](https://user-images.githubusercontent.com/103073631/180670307-a840c2db-ba48-495d-a929-c45ac36f58fd.png)
+
+
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+    
+    From the manufacturing Lot Summary, the variance for the total manufacturing lot is around 62 < 100, which is within the expected design specifications of not exceeding 100 pounds per square inch. However, to see the summary by manufacturing lot summary, Lot 3 is a large contributing factor to the variance being high. Lot 3 shows a variance of 170 > 100 and does not meet the design specifications. Lot 1 and Lot 2 have significantly lower variance, which equal to 1 and 7.
+
+
+
+
+
+
+
+
+
