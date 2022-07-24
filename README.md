@@ -41,10 +41,24 @@ Write a short summary using screenshots from your total_summary and lot_summary 
     From the manufacturing Lot Summary, the variance for the total manufacturing lot is around 62 < 100, which is within the expected design specifications of not exceeding 100 pounds per square inch. However, to see the summary by manufacturing lot summary, Lot 3 is a large contributing factor to the variance being high. Lot 3 shows a variance of 170 > 100 and does not meet the design specifications. Lot 1 and Lot 2 have significantly lower variance, which equal to 1 and 7.
 
 
+## T-Tests on Suspension Coils
 
+Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+### Entire Lot
 
+![image](https://user-images.githubusercontent.com/103073631/180670562-b8922003-d560-41c4-9cb6-0d8755c49731.png)
 
+### LOT 1
 
+![image](https://user-images.githubusercontent.com/103073631/180670610-c6da27fa-3758-4073-b4e8-a14e2fca9300.png)
+
+### LOT 2
+
+![image](https://user-images.githubusercontent.com/103073631/180670623-76cf5f0e-2950-46b9-a49c-74aca5e8a2f4.png)
+
+### LOT 3
+
+![image](https://user-images.githubusercontent.com/103073631/180670640-1aad371d-05ec-4010-a617-2ff9ad3ada60.png)
 
 
 
