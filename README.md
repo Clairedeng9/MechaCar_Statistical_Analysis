@@ -66,4 +66,26 @@ Briefly summarize your interpretation and findings for the t-test results. Inclu
 - Then to perform t-tests on the individual lots, the overall manufacturing, Lot 1, p-value = 1 and Lot 2, p-value = 0.6072. They are both greater than 0.05. Therefore, there is not sufficient evidence to reject the null hypothesis, which shows the two means are statistically similar. However, lot 3 p-value = 0.04168 < 0.05 but close to 0.05. Overall, the suspensiion coils dataset is relative statistically representative of the population mean.
 
 
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+- To compare the performance of the MechaCar against the competition, we have to think about other metrics that would be of interest to a customer, such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. One of metrics we are going to test is safety rating.
+
+In your description, address the following questions:
+What metric or metrics are you going to test?
+
+- The metrics for cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating are all can be tested, I am going to test the `satefy rating`.
+
+What is the null hypothesis or alternative hypothesis?
+
+H0 = The mean of MechaCar is equal to the mean of Competitors
+H1 = The mean of MechaCar is not equal to the mean of Competitors
+
+What statistical test would you use to test the hypothesis? And why?
+
+- I will use T-test to perform the hypothesis, to use the p-value comparing with significance level was the common 0.05 percent.
+
+What data is needed to run the statistical test?
+
+- To collect random sample of MechaCar and competitor, the sample size should be n > 30, by using survey method to collect the safety ratings from the customers.
 
