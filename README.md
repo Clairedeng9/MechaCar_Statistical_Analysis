@@ -46,19 +46,24 @@ Write a short summary using screenshots from your total_summary and lot_summary 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 ### Entire Lot
 
-![image](https://user-images.githubusercontent.com/103073631/180670562-b8922003-d560-41c4-9cb6-0d8755c49731.png)
+![image](https://user-images.githubusercontent.com/103073631/180671312-ef448ba8-9037-41a8-9e47-37f82d76a488.png)
+
+- Assuming our significance level was the common 0.05 percent, the p-value = 0.06 > 0.05, which our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 ### LOT 1
 
-![image](https://user-images.githubusercontent.com/103073631/180670610-c6da27fa-3758-4073-b4e8-a14e2fca9300.png)
+![image](https://user-images.githubusercontent.com/103073631/180671326-02ab6298-d95e-4e7d-a024-d4e78c43084b.png)
 
 ### LOT 2
 
-![image](https://user-images.githubusercontent.com/103073631/180670623-76cf5f0e-2950-46b9-a49c-74aca5e8a2f4.png)
+![image](https://user-images.githubusercontent.com/103073631/180671339-fc1fccf5-f4b8-4cb2-9ca0-729ac40a8db2.png)
 
 ### LOT 3
 
-![image](https://user-images.githubusercontent.com/103073631/180670640-1aad371d-05ec-4010-a617-2ff9ad3ada60.png)
+![image](https://user-images.githubusercontent.com/103073631/180671357-442a93ed-3158-4571-83a4-8b2f3e798aa1.png)
+
+
+- Then to perform t-tests on the individual lots, the overall manufacturing, Lot 1, p-value = 1 and Lot 2, p-value = 0.6072. They are both greater than 0.05. Therefore, there is not sufficient evidence to reject the null hypothesis, which shows the two means are statistically similar. However, lot 3 p-value = 0.04168 < 0.05 but close to 0.05. Overall, the suspensiion coils dataset is relative statistically representative of the population mean.
 
 
 
